@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.radsyn.saservices.service.CountryServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.922 s - in com.radsyn.saservices.service.CountryServiceTest
